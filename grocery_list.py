@@ -24,7 +24,7 @@ def main():
     veggies = []
 
     # output
-    print("Welcome to the useless all-vegan grocery list maker!")
+    print("Welcome to the 'useless' all-vegan grocery list maker!")
     print("")
 
     # input for fruits
